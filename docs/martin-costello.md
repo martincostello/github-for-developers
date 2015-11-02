@@ -3,3 +3,5 @@
  * Chips
  * Coding
  * Blue
+ * Likes C#
+ * Hates Java
