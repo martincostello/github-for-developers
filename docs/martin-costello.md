@@ -2,3 +2,4 @@
  * London, UK
  * Chips
  * Coding
+ * Blue
